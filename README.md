@@ -69,12 +69,14 @@ El modelo logra explicar más del **80% de la variabilidad** de las anomalías, 
 **Entorno recomendado:** VS Code o Jupyter Notebook  
 
 **Librerías principales:**
-```bash
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+
+---
 
 ## 🧠 Reflexión Final
 
@@ -82,8 +84,11 @@ Los resultados evidencian que el calentamiento global no es una fluctuación tem
 Cada año la Tierra se calienta un poco más, y las proyecciones indican que este proceso continuará a menos que se tomen medidas significativas para mitigar las emisiones.  
 El futuro climático dependerá de las acciones que se adopten hoy.
 
+---
+
 ### ✍️ Autor
 
 **Alexis Ortiz D.**  
 Proyecto académico de análisis climático con fines educativos y de divulgación científica.  
+
 Basado en datos abiertos de la **NASA Goddard Institute for Space Studies (GISS)**.
